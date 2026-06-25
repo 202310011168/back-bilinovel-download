@@ -1,0 +1,19 @@
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+**/doc/api/
+.dart_tool/
+.packages
+
+# IDE
+.idea/
+*.iml
+
+# Build output
+build/
+
+# Logs
+bili_novel.log
+
+# Backups
+*.bak
